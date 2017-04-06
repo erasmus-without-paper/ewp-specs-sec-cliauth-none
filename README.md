@@ -67,3 +67,4 @@ No.
 [statuses]: https://github.com/erasmus-without-paper/ewp-specs-management/blob/stable-v1/README.md#statuses
 [cors]: https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
 [sec-method-rules]: https://github.com/erasmus-without-paper/ewp-specs-sec-intro#rules
+[sec-intro]: https://github.com/erasmus-without-paper/ewp-specs-sec-intro
